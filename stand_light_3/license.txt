@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stand Light 3
+* source:	https://sketchfab.com/3d-models/stand-light-3-c33f7cfeda3e45689c9ff8561f91303f
+* author:	khanhnguyen1189 (https://sketchfab.com/khanhnguyen1189)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stand Light 3" (https://sketchfab.com/3d-models/stand-light-3-c33f7cfeda3e45689c9ff8561f91303f) by khanhnguyen1189 (https://sketchfab.com/khanhnguyen1189) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
